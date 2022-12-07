@@ -14,4 +14,4 @@ sums.append(current_sum)
 
 print(max(sums))
 
-#My answer was 200945
+#My answer was 69693
